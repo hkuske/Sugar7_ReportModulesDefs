@@ -14,6 +14,8 @@ $manifest = array (
   'acceptable_sugar_versions' => 
   array (
     0 => '7.*.*',
+    1 => '8.*.*',
+    2 => '9.*.*',
   ),
   'acceptable_sugar_flavors' => 
   array (
